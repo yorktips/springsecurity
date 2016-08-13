@@ -9,6 +9,9 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 import org.springframework.web.servlet.view.JstlView;
 
+/* this is a sample code */
+
+
 @EnableWebMvc
 @Configuration
 @ComponentScan({ "com.dbl.web.*" })
